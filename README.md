@@ -1,7 +1,7 @@
-# free_from_csm
-Free from csm for minetest
+# dont_move
 
-"Free from csm" mod block all coloured messages from players who using csm. 
-Makes clean chat from pseudo moderators.
+"Don't move" decline command when player moved while command was entered.
 
-![Screenshot](https://i.ibb.co/vq8HDwQ/ezgif-1-7d0f0bd5a4a5.gif)
+An example: /spawn -> delay -> check moving - > accept / decline teleport
+
+![Screenshot](https://i.ibb.co/8K8bzQW/ezgif-3-e6c35ca0d583-min.gif)
